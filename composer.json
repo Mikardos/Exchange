@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "classmap": [
+      "lib"
+    ]
+  },
+  "config": {
+    "disable-tls": true,
+    "secure-http": false
+  }
+}
