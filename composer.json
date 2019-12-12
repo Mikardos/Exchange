@@ -1,11 +1,9 @@
 {
-  "autoload": {
-    "classmap": [
-      "lib"
-    ]
-  },
-  "config": {
-    "disable-tls": true,
-    "secure-http": false
-  }
+    "name": "pachverk/exchange",
+    "description": "Exchange",
+    "type": "library",
+    "version": "0.0.1",
+    "require": {
+        "php": ">=7"
+    }
 }
